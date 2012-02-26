@@ -7,7 +7,7 @@ This is a simple port of twistbonjour by Brian Granger to use the pure-python py
 Requirements
 ============
 
-[pynonjour](http://code.google.com/p/pybonjour/)
+[pybonjour](http://code.google.com/p/pybonjour/)
 
 Linux: Avahi (libavahi)
 Mac OS X: None
